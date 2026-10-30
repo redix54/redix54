@@ -39,4 +39,4 @@ Third-year student at **Epitech Marseille**. I build systems end to end — from
 
 ---
 
-[sofiane.nacrier@epitech.eu](mailto:sofiane.nacrier@epitech.eu) · Marseille, France
+[LinkedIn](https://www.linkedin.com/in/sofiane-nacrier-022b71340/) · [sofiane.nacrier@epitech.eu](mailto:sofiane.nacrier@epitech.eu) · Marseille, France
